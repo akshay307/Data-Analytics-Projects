@@ -1,0 +1,15 @@
+#make sure all the necessary packages are installed- glob3,xlrt,openpyxl,xlsxwriter
+#CODE 1
+
+import numpy as np
+import pandas as pd
+import glob
+
+all_data = pd.DataFrame()
+for f in glob.glob('C:/Users/user/Documents/Data for Project/Data/US/City Data/UnitedStates_*.csv'):
+   df = pd.read_csv(f)
+   all_data = all_data.append(df, ignore_index=True)
+    
+writer = pd.ExcelWriter('C:/Users/user/Documents/Data for Project/Data/US/Python Scripts and Outputs/CombinedCitiesData_US.xlsx', engine='xlsxwriter')
+all_data.to_excel(writer, sheet_name='Sheet1')
+writer.save()    
