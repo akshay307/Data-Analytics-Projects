@@ -11,7 +11,7 @@ Data visualization helps identify relationships between dietary and behavioral f
 In the airline industry, it is very common that the airlines are finding it difficult to get plane to the gate on time. The major challenge the industry has been facing, is to improve the quality of the airline on-time performance. The goal of this research study is to determine which factor impacts most while determining the airline on-time performance, which airline industry the customer should choose and finally the time and day of the week at which a passenger must travel to avoid longer flight delays. The analysis is important because it will increase the Nation’s understanding of airline transportation statistics and enable the people to better informed decisions about their travels. Additionally, this analysis can be used by the airline industries to work upon their performance by looking into the root causes of the various factors affecting it.
 
 DATACAMP PROJECTS
-1. PREDICTING CREDIT CARD APPROVAL - 
+1. PREDICT CREDIT CARD APPROVAL - 
 Commercial banks receive a lot of applications for credit cards and many of them get rejected for several reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report. Manually analyzing these applications is mundane, error-prone, and time-consuming so using machine learning I will demonstrate how to automate a credit card approval predictor using sample data.
 
 Dataset- UCI Machine Learning Repository - Credit Card Approval.
@@ -25,7 +25,29 @@ Steps-
 6 - Grid searching and optimizing model performance
 7 - Finding the best performing model
 
-2. THE GITHUB HISTORY OF SCALA LANGUAGE - 
+2. PREDICT SUPERBOWL WINNER - 
+In this notebook, I have performed a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I will demonsstrate how to look for insights in the data and devise strategies to drive growth and retention.
+
+Dataset- open source Google play app data and reviews.
+
+Steps-
+1 - Import google play store apps and reviews data and perform data cleaning required for analysis.
+2 - Explore app categories and plot distribution of app ratings, size and price of an app and analyze relation between app category and app price
+3 - Filter out "junk" apps and analyze popularity of paid apps vs free apps
+4 - Perform sentiment analysis of user reviews
+
+3. ANALYZE ANDROID APP MARKET ON GOOGLE PLAY - 
+In this notebook, I have performed a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I will demonstrate how to look for insights in the data and devise strategies to drive growth and retention.
+
+Dataset- open source Google play app data and reviews.
+
+Steps-
+1 - Import google play store apps and reviews data and perform data cleaning required for analysis.
+2 - Explore app categories and plot distribution of app ratings, size and price of an app and analyze relation between app category and app price
+3 - Filter out "junk" apps and analyze popularity of paid apps vs free apps
+4 - Perform sentiment analysis of user reviews
+
+4. ANSWER KEY QUESTIONS ON GITHUB HISTORY OF SCALA LANGUAGE - 
 Scala is an open source project With almost 30k commit history over ten years. Open source projects have the advantage that their entire development histories - who made changes, what was changed, code reviews, etc. are publicly available. In this project I will demonstrate how to answer several questions and find out who has had the most influence on Scala's development and who are the experts. 
 
 Dataset- Previously mined and extracted from Git and GitHub.
@@ -40,14 +62,3 @@ Steps-
 7 - Who made the last ten pull requests on a given file?
 8 - The pull requests of two special developers
 9 - Visualizing the contributions of each developer
-
-3. THE ANDROID APP MARKET ON GOOGLE PLAY - 
-In this notebook, I have performed a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I will demonsstrate how to look for insights in the data and devise strategies to drive growth and retention.
-
-Dataset- open source Google play app data and reviews.
-
-Steps-
-1 - Import google play store apps and reviews data and perform data cleaning required for analysis.
-2 - Explore app categories and plot distribution of app ratings, size and price of an app and analyze relation between app category and app price
-3 - Filter out "junk" apps and analyze popularity of paid apps vs free apps
-4 - Perform sentiment analysis of user reviews
