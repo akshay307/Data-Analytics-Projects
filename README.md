@@ -1,6 +1,5 @@
 # Data-Analytics-Projects
-Academic projects in data analytics- source code, datasets, documentation, assignments and other relevant submissions and project deliverables 
-
+This repository consists of my hands on projects in data analytics and academic research papers.
 My Tableau Repository - https://public.tableau.com/profile/akshay.mandke#!/
 
 ACADEMIC RESEARCH PAPERS
@@ -10,7 +9,7 @@ Data visualization helps identify relationships between dietary and behavioral f
 2. Data Analysis of Airline On-time Performance - 
 In the airline industry, it is very common that the airlines are finding it difficult to get plane to the gate on time. The major challenge the industry has been facing, is to improve the quality of the airline on-time performance. The goal of this research study is to determine which factor impacts most while determining the airline on-time performance, which airline industry the customer should choose and finally the time and day of the week at which a passenger must travel to avoid longer flight delays. The analysis is important because it will increase the Nation’s understanding of airline transportation statistics and enable the people to better informed decisions about their travels. Additionally, this analysis can be used by the airline industries to work upon their performance by looking into the root causes of the various factors affecting it.
 
-DATACAMP PROJECTS
+PROJECTS COMPLETED FROM DATACAMP
 1. PREDICT CREDIT CARD APPROVAL - 
 Commercial banks receive a lot of applications for credit cards and many of them get rejected for several reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report. Manually analyzing these applications is mundane, error-prone, and time-consuming so using machine learning I will demonstrate how to automate a credit card approval predictor using sample data.
 
