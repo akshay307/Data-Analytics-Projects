@@ -35,7 +35,19 @@ Steps-
 3 - Filter out "junk" apps and analyze popularity of paid apps vs free apps
 4 - Perform sentiment analysis of user reviews
 
-3. ANALYZE ANDROID APP MARKET ON GOOGLE PLAY - 
+3. CLASSIFICATION OF SONG GENRES - 
+Music streaming services categorize music for personalized recommendations based on user's history. In this notebook, I will demonstrate how to look through a given dataset and classify songs as being either 'Hip-Hop' or 'Rock' using direct analysis of the raw audio information in a given song and scoring this raw data on a variety of metrics.
+
+Dataset- Echo Nest
+
+Steps-
+1 - Import the data and plot pairwise relationships between continuous variables
+2 - Normalize the feature data and perform Principal Component Analysis (PCA) on scaled data
+3 - Train a decision tree to perform classification and compare performance with a logistic regression model
+4 - Balance the data to improve model bias
+5 - Use cross validation (CV) to evaluate model performance
+
+4. ANALYZE ANDROID APP MARKET ON GOOGLE PLAY - 
 In this notebook, I have performed a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I will demonstrate how to look for insights in the data and devise strategies to drive growth and retention.
 
 Dataset- open source Google play app data and reviews.
@@ -46,7 +58,7 @@ Steps-
 3 - Filter out "junk" apps and analyze popularity of paid apps vs free apps
 4 - Perform sentiment analysis of user reviews
 
-4. ANSWER KEY QUESTIONS ON GITHUB HISTORY OF SCALA LANGUAGE - 
+5. ANSWER KEY QUESTIONS ON GITHUB HISTORY OF SCALA LANGUAGE - 
 Scala is an open source project With almost 30k commit history over ten years. Open source projects have the advantage that their entire development histories - who made changes, what was changed, code reviews, etc. are publicly available. In this project I will demonstrate how to answer several questions and find out who has had the most influence on Scala's development and who are the experts. 
 
 Dataset- Previously mined and extracted from Git and GitHub.
