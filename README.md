@@ -1,13 +1,14 @@
-# Data-Analytics-Projects
-This repository consists of my hands on projects in data analytics and academic research papers.
-My Tableau Repository - https://public.tableau.com/profile/akshay.mandke#!/
+### Data-Analytics-Projects
+This repository consists of my academic research in data science and hands-on projects using data analytics and simple machine learning implementations using Python.
+
+# Tableau Profile - https://public.tableau.com/profile/akshay.mandke#!/
 
 ### ACADEMIC RESEARCH PAPERS
 1. Visual Analysis of Grocery Expenses to Interpret Dietary Habits - 
-Data visualization helps identify relationships between dietary and behavioral factors among individuals. The study and analysis conducted can inform the audience about relationships between expenditure on different food items, their nutritional value, the cost savings and dietary trends. The study targets two important aspects: dietary patterns and monthly expenditure which can help create awareness in food consumption habits, facilitate healthy choices and track expenses. The analysis is based on data collected (educational purpose only) from two apartments each uniquely consisting of male and female members. The visualization report mainly focuses on three parts: (1) Individual Expense Trends (2) Expenditure Comparison (3) Annual Intake Trend.
+Data visualization of expenditure on food can simplify decison making for healthier choices and also reduce costs by analyzing diet patterns. The research is conducted on relationships between expenditure on different categories of food, cost of each item, nutritional value and dietary trends. The study targets two important aspects: dietary patterns and monthly expenditure which can generate awareness on food consumption habits, promote healthier choices and also track expenses. The analysis is based on data collected (_educational purpose only_) from two apartments each uniquely consisting of male and female members. The visualization report mainly focuses on three parts: (1) Individual Expense Trends (2) Expenditure Comparison (3) Annual Intake Trend.
 
 2. Data Analysis of Airline On-time Performance - 
-In the airline industry, it is very common that the airlines are finding it difficult to get plane to the gate on time. The major challenge the industry has been facing, is to improve the quality of the airline on-time performance. The goal of this research study is to determine which factor impacts most while determining the airline on-time performance, which airline industry the customer should choose and finally the time and day of the week at which a passenger must travel to avoid longer flight delays. The analysis is important because it will increase the Nation’s understanding of airline transportation statistics and enable the people to better informed decisions about their travels. Additionally, this analysis can be used by the airline industries to work upon their performance by looking into the root causes of the various factors affecting it.
+Most critical challenge and operational risk for the airline industry is on-time performance of flights. The goal of this research is to perform a statistical analysis on transportation data and determine which feature has the highest impact on airline performance, which particular airline the customer should choose and finally the time and day of the week on which a passenger must travel to avoid flight delays. The analysis will improve scheduling and logistics for airline and allow passengers to make informed decisions before traveling. 
 
 ### PROJECTS COMPLETED FROM DATACAMP
 1. PREDICT CREDIT CARD APPROVAL - 
