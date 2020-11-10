@@ -15,7 +15,7 @@ Most critical challenge and operational risk for the airline industry is on-time
 Commercial banks receive a lot of applications for credit cards and many of them get rejected for several reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report. Manually analyzing these applications is mundane, error-prone, and time-consuming so using machine learning I will demonstrate how to automate a credit card approval predictor using sample data.
 
 Dataset- UCI Machine Learning Repository - Credit Card Approval.
-Steps-
+
 * Import and inspect credit card applications data
 * Pre-process the data by handling missing values and other transformations
 * Split the dataset into train and test sets and further preprocess as required
@@ -29,7 +29,6 @@ In this notebook, I have performed a comprehensive analysis of the Android app m
 
 Dataset- scraped and polished from Wikipedia. 
 
-Steps-
 * Import dataset and explore data issues.
 * Analyze combined points for each Super Bowl by visualizing distributions and identify Super Bowls with the highest and lowest scores.
 * Do blowouts translate to lost viewers?
@@ -41,7 +40,7 @@ Steps-
 Music streaming services categorize music for personalized recommendations based on user's history. In this notebook, I will demonstrate how to look through a given dataset and classify songs as being either 'Hip-Hop' or 'Rock' using direct analysis of the raw audio information in a given song and scoring this raw data on a variety of metrics.
 
 Dataset- Echo Nest
-Steps-
+
 * Import the data and plot pairwise relationships between continuous variables.
 * Normalize the feature data and perform Principal Component Analysis (PCA) on scaled data.
 * Train a decision tree to perform classification and compare performance with a logistic regression model.
@@ -52,7 +51,7 @@ Steps-
 In this notebook, I have performed a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I will demonstrate how to look for insights in the data and devise strategies to drive growth and retention.
 
 Dataset- open source Google play app data and reviews.
-Steps-
+
 * Import data for google play store apps and reviews and perform data cleaning as required for analysis.
 * Explore app categories and plot distribution of app details to analyze relation between category and price.
 * Filter out "junk" apps and analyze popularity of paid apps vs free apps.
@@ -62,7 +61,7 @@ Steps-
 Scala is an open source project With almost 30k commit history over ten years. Open source projects have the advantage that their entire development histories - who made changes, what was changed, code reviews, etc. are publicly available. In this project I will demonstrate how to answer several questions and find out who has had the most influence on Scala's development and who are the experts. 
 
 Dataset- Previously mined and extracted from Git and GitHub.
-Steps-
+
 * Import Scala's real-world project repository data and pre process
 * Merge dataframes and answer following questions.
 * Is the project still actively maintained?
