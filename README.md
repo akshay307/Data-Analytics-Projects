@@ -54,10 +54,10 @@ In this notebook, I have performed a comprehensive analysis of the Android app m
 Dataset- open source Google play app data and reviews.
 
 Steps-
-1 - Import google play store apps and reviews data and perform data cleaning required for analysis.
-2 - Explore app categories and plot distribution of app ratings, size and price of an app and analyze relation between app category and app price
-3 - Filter out "junk" apps and analyze popularity of paid apps vs free apps
-4 - Perform sentiment analysis of user reviews
+* Import google play store apps and reviews data and perform data cleaning required for analysis.
+* Explore app categories and plot distribution of app ratings, size and price of an app and analyze relation between app category and app price
+* Filter out "junk" apps and analyze popularity of paid apps vs free apps
+* Perform sentiment analysis of user reviews
 
 5. ANSWER KEY QUESTIONS ON GITHUB HISTORY OF SCALA LANGUAGE - 
 Scala is an open source project With almost 30k commit history over ten years. Open source projects have the advantage that their entire development histories - who made changes, what was changed, code reviews, etc. are publicly available. In this project I will demonstrate how to answer several questions and find out who has had the most influence on Scala's development and who are the experts. 
