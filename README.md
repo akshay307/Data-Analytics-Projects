@@ -1,4 +1,4 @@
-### Data-Analytics-Projects
+### MyProjects
 This repository consists of my academic research in data science and hands-on projects using data analytics and simple machine learning implementations using Python.
 
 # Tableau Profile - https://public.tableau.com/profile/akshay.mandke#!/
